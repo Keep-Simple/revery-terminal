@@ -35,7 +35,7 @@
   },
   "resolutions": {
     "revery": "github:Keep-Simple/revery#37ae6a5cfd6a3ab65019c45c15a1dff33e4bac2d",
-    "isolinear": "revery-ui/isolinear#8cad3b0",
+    "isolinear": "revery-ui/isolinear#8cad3b0"
   },
   "scripts": {
    "format": "esy dune build @fmt --auto-promote",
